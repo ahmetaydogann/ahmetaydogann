@@ -32,8 +32,8 @@
 
 ## 📊 GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetaydogann&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetaydogann&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetaydogann&show_icons=true&theme=tokyonight" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetaydogann&theme=tokyonight" alt="" />
 </p>
 
 <p align="center">
