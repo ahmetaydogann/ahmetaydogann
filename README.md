@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Merhaba 👋, Ben [Adınız]</h1>
 
-<!--
-**ahmetaydogann/ahmetaydogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Electronics+%26+Computer+Engineering;Embedded+Systems+%7C+Circuit+Design;Proteus+%26+MIPS+Assembly;Fitness+%26+Hardware+Enthusiast" alt="Typing Animation" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Benimle İletişime Geç
+<p align="center">
+  <a href="https://www.linkedin.com/in/[linkedin-kullanici-adin]/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/[instagram-kullanici-adin]" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/[leetcode-kullanici-adin]" target="blank">
+    <img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 🛠 Teknolojiler ve Araçlar
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,github,matlab" />
+</p>
+
+---
+
+## 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[github-kullanici-adin]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[github-kullanici-adin]&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[github-kullanici-adin]&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Hakkımda
+- 🎓 Türkiye'de Mühendislik Öğrencisiyim.
+- ⚡ **Devre Teorisi, Kontrol Sistemleri ve Mikroişlemci Mimarisi** konularına tutkuluyum.
+- 💻 Ağırlıklı olarak **MIPS Assembly, C/C++ ve Proteus simülasyonları** üzerine projeler geliştiriyorum.
+- 🏋️‍♂️ Antrenman yapmayı, **fitness ve beslenme** disiplinini hayatımın bir parçası olarak görüyorum. Kas gelişimi ve optimizasyon sadece kodlarda değil, sporda da ilgimi çekiyor!
+- 🌍 Açık kaynak projelere katkıda bulunmaya ve donanım/yazılım odaklı işbirliklerine her zaman açığım.
+
+---
+
+## 🎉 Eğlenceli Gerçekler
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="70">  
+  <b>Op-amp'lar ve transistörlerle (JFET/BJT) uğraşmayı seviyorum</b> 🤖  
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="70">  
+  <b>Hem devreyi simüle ederken hem de ağırlık kaldırırken kahve şart</b> ☕  
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="70">  
+  <b>Her zaman öğrenmeye ve gelişmeye odaklıyım</b> 📚  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[github-kullanici-adin]&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</p>
