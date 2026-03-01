@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben [Adınız]</h1>
+<h1 align="center">Merhaba 👋, Ben Ahmet Aydoğan</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -43,10 +43,9 @@
 ---
 
 ## 🚀 Hakkımda
-- 🎓 Türkiye'de Mühendislik Öğrencisiyim.
+- 🎓 Erciyes Üniversitesinde Elektrik Elektronik Mühendisliği öğrencisiyim.
 - ⚡ **Devre Teorisi, Kontrol Sistemleri ve Mikroişlemci Mimarisi** konularına tutkuluyum.
 - 💻 Ağırlıklı olarak **MIPS Assembly, C/C++ ve Proteus simülasyonları** üzerine projeler geliştiriyorum.
-- 🏋️‍♂️ Antrenman yapmayı, **fitness ve beslenme** disiplinini hayatımın bir parçası olarak görüyorum. Kas gelişimi ve optimizasyon sadece kodlarda değil, sporda da ilgimi çekiyor!
 - 🌍 Açık kaynak projelere katkıda bulunmaya ve donanım/yazılım odaklı işbirliklerine her zaman açığım.
 
 ---
