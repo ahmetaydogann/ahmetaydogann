@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Ahmet Aydoğan</h1>
+<h1 align="center">Hello 👋, I'm Ahmet Aydoğan</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
